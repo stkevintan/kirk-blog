@@ -1,0 +1,17 @@
+title = "TOML Example"
+
+[[posts]]
+title = 'A post title'
+updated_at = "2019.9.28"
+tags = ['a', 'b', 'c']
+
+
+[[posts]]
+title = 'B post title'
+updated_at = "2019.9.29"
+tags = ['a', 'b', 'c']
+
+[[posts]]
+title = 'C post title'
+updated_at = '2019.9.30'
+tags = ['a','b','c','d']
